@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Davi! 👋 
 
-<!--
-**Davi-dev19/Davi-dev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do Davi" />
+  <img src="https://github-readme-stats.vercel.app" alt="Linguagens mais usadas" />
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de Programação focado em **Lógica e Back-end**.
+- 🐍 Atualmente dominando a trilha completa de **Python 3** no Curso em Vídeo.
+- 🎯 Foco atual: **Estruturas Compostas** (Mundo 3) e **Orientação a Objetos** (Mundo 4).
+- 🚀 Próximos passos planejados: Transição para o ecossistema **Java & Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas (Foco Atual)
+![Python](https://img.shields.io)
+![Git](https://img.shields.io)
+![VS Code](https://img.shields.io)
+![Markdown](https://img.shields.io)
+
+---
+
+### 📈 Trilha de Aprendizado Python
+- [x] **Mundo 1:** Fundamentos e Condicionais ✅
+- [x] **Mundo 2:** Estruturas de Repetição ✅
+- [ ] **Mundo 3:** Estruturas Compostas (Tuplas, Listas, Dicionários e Funções) 🚧
+- [ ] **Mundo 4:** Programação Orientada a Objetos (POO) ⏳
+
+---
+🎨 *Repositório principal organizado seguindo as normas da PEP 8.*
