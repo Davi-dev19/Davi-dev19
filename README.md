@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do Davi" />
+  <br>
   <img src="https://github-readme-stats.vercel.app" alt="Linguagens mais usadas" />
 </div>
 
