@@ -7,10 +7,10 @@
 </div>
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de Programação focado em **Lógica e Back-end**.
-- 🐍 Atualmente dominando a trilha completa de **Python 3** no Curso em Vídeo.
+- 🎓 Graduando em **Engenharia de Software** (3º Período).
+- 🐍 Dominando a trilha de **Python 3** (Curso em Vídeo).
 - 🎯 Foco atual: **Estruturas Compostas** (Mundo 3) e **Orientação a Objetos** (Mundo 4).
-- 🚀 Próximos passos planejados: Transição para o ecossistema **Java & Spring Boot**.
+- ☕ Próximos passos: Transição para o ecossistema **Java & Spring Boot**.
 
 ### 🛠 Tecnologias e Ferramentas (Foco Atual)
 ![Python](https://img.shields.io)
@@ -27,4 +27,4 @@
 - [ ] **Mundo 4:** Programação Orientada a Objetos (POO) ⏳
 
 ---
-🎨 *Repositório principal organizado seguindo as normas da PEP 8.*
+🎨 *Repositório principal organizado seguindo as normas da [PEP 8](https://peps.python.org).*
