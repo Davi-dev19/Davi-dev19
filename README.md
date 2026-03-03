@@ -1,8 +1,9 @@
 # Olá, eu sou o Davi! 👋 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do Davi" height="170" />
-  <img src="https://github-readme-stats.vercel.app" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estatísticas do Davi" />
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Linguagens mais usadas" />
 </div>
 
 ### 👨‍💻 Sobre mim
