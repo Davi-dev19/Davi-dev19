@@ -1,14 +1,15 @@
 # Olá, eu sou o Davi! 👋 
 
 <div align="center">
-  <!-- Gráfico de Sequência de Dias Codando (Muito mais estável) -->
+  <!-- Gráfico de Sequência (A "Chama" - Servidor 1) -->
   <img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
   
   <br><br>
 
-  <!-- Estatísticas Gerais (Servidor Alternativo) -->
+  <!-- Estatísticas Gerais (Servidor 2 - Espelho/Mirror) -->
   <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estatísticas do Davi" />
 </div>
+
 
 
 
