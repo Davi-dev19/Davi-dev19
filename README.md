@@ -6,11 +6,11 @@
 - 🎯 Foco atual: **Estruturas Compostas** (Mundo 3) e **Orientação a Objetos** (Mundo 4).
 - ☕ Próximos passos: Transição para o ecossistema **Java & Spring Boot**.
 
-### 🛠 Tecnologias e Ferramentas (Foco Atual)
-![Python](https://img.shields.io)
-![Git](https://img.shields.io)
-![VS Code](https://img.shields.io)
-![Markdown](https://img.shields.io)
+### 🛠️ Tecnologias e Ferramentas (Foco Atual)
+*   **Linguagem Principal:** Python 3 (Dominando a [PEP 8](https://peps.python.org)) 🐍
+*   **Controle de Versão:** Git & GitHub 📂
+*   **Ambiente de Desenvolvimento:** VS Code 💻
+*   **Documentação:** Markdown 📝
 
 ---
 
