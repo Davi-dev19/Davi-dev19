@@ -1,20 +1,5 @@
 # Olá, eu sou o Davi! 👋 
 
-<div align="center">
-  <!-- Badge de Commits Totais -->
-  <img src="https://img.shields.io" alt="Atividade de Commits" />
-  
-  <!-- Badge de Seguidores -->
-  <img src="https://img.shields.io" alt="Seguidores" />
-  
-  <!-- Badge de Linguagem Principal -->
-  <img src="https://img.shields.io" alt="Linguagem Principal" />
-</div>
-
-
-
-
-
 ### 👨‍💻 Sobre mim
 - 🎓 Graduando em **Engenharia de Software** (3º Período).
 - 🐍 Dominando a trilha de **Python 3** (Curso em Vídeo).
