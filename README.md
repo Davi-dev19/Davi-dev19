@@ -1,10 +1,15 @@
 # Olá, eu sou o Davi! 👋 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do Davi" />
-  <br><br>
+  <!-- Gráfico de Sequência de Dias Codando (Muito mais estável) -->
   <img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
+  
+  <br><br>
+
+  <!-- Estatísticas Gerais (Servidor Alternativo) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estatísticas do Davi" />
 </div>
+
 
 
 ### 👨‍💻 Sobre mim
