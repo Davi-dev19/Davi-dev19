@@ -1,10 +1,6 @@
 # Olá, eu sou o Davi! 👋 
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estatísticas do Davi" />
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Linguagens mais usadas" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
 
 ### 👨‍💻 Sobre mim
 - 🎓 Graduando em **Engenharia de Software** (3º Período).
