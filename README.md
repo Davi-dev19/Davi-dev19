@@ -1,6 +1,11 @@
 # Olá, eu sou o Davi! 👋 
 
-<img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do Davi" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
+</div>
+
 
 ### 👨‍💻 Sobre mim
 - 🎓 Graduando em **Engenharia de Software** (3º Período).
