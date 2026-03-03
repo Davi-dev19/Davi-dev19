@@ -1,14 +1,16 @@
 # Olá, eu sou o Davi! 👋 
 
 <div align="center">
-  <!-- Gráfico de Sequência (A "Chama" - Servidor 1) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Sequência de Commits" />
+  <!-- Badge de Commits Totais -->
+  <img src="https://img.shields.io" alt="Atividade de Commits" />
   
-  <br><br>
-
-  <!-- Estatísticas Gerais (Servidor 2 - Espelho/Mirror) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Estatísticas do Davi" />
+  <!-- Badge de Seguidores -->
+  <img src="https://img.shields.io" alt="Seguidores" />
+  
+  <!-- Badge de Linguagem Principal -->
+  <img src="https://img.shields.io" alt="Linguagem Principal" />
 </div>
+
 
 
 
