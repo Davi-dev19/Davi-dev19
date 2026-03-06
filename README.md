@@ -22,3 +22,8 @@
 
 ---
 🎨 *Repositório principal organizado seguindo as normas da [PEP 8](https://peps.python.org).*
+
+www.linkedin.com/in/
+davi-dev19
+Nome fantasia da URL
+
