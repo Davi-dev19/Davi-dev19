@@ -25,5 +25,4 @@
 
 www.linkedin.com/in/
 davi-dev19
-Nome fantasia da URL
 
