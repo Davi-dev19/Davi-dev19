@@ -23,6 +23,6 @@
 ---
 🎨 *Repositório principal organizado seguindo as normas da [PEP 8](https://peps.python.org).*
 
-www.linkedin.com/in/
+📫 **Como me encontrar:* www.linkedin.com/in/
 davi-dev19
 
