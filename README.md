@@ -8,7 +8,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas (Foco Atual)
 *   **Linguagem Principal:** Python 3 (Dominando a [PEP 8](https://peps.python.org)) 🐍
-*   **Controle de Versão:** Git & GitHub 📂
+*   **Controle de Versão:** Git, GitHub & **Git Bash** (CLI) 💻
 *   **Ambiente de Desenvolvimento:** VS Code 💻
 *   **Conhecimentos Complementares:** Metodologias Ágeis (Scrum/Kanban) e Markdown 📝
 
