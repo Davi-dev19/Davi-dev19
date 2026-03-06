@@ -7,10 +7,11 @@
 - ☕ Próximos passos: Transição para o ecossistema **Java & Spring Boot**.
 
 ### 🛠️ Tecnologias e Ferramentas (Foco Atual)
+### 🛠️ Tecnologias e Ferramentas (Foco Atual)
 *   **Linguagem Principal:** Python 3 (Dominando a [PEP 8](https://peps.python.org)) 🐍
 *   **Controle de Versão:** Git & GitHub 📂
 *   **Ambiente de Desenvolvimento:** VS Code 💻
-*   **Documentação:** Markdown 📝
+*   **Conhecimentos Complementares:** Metodologias Ágeis (Scrum/Kanban) e Markdown 📝
 
 ---
 
@@ -25,4 +26,3 @@
 
 📫 *Como me encontrar:* www.linkedin.com/in/
 davi-dev19
-
