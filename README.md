@@ -1,12 +1,12 @@
 <div align="center">
   <h1>🧭 Davi Dev Tech</h1>
   <p>
-    <em>Engenharia de Software · Backend · Dados · Organização</em><br>
-    <strong>💼 Estagiário de Desenvolvimento de Software</strong>
+    <em>Engenharia de Software · Backend · Dados · Indústria</em><br>
+    <strong>💼 Estagiário de Desenvolvimento de Software · Kairos Motores</strong>
   </p>
   <!-- Badge de status atual -->
   <a href="https://www.linkedin.com/in/davidev-tech" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Estagiando-green?style=for-the-badge&logo=linkedin" alt="Estagiando" />
+    <img src="https://img.shields.io/badge/Status-Estagiário%20na%20Kairos%20Motores-green?style=for-the-badge&logo=linkedin" alt="Estagiário na Kairos Motores" />
   </a>
   <br><br>
   <!-- Mini cards de tecnologias -->
@@ -23,24 +23,27 @@
 ## 🧠 Sobre mim
 
 🎓 **Estudante de Engenharia de Software** — aplicando teoria na prática profissional.  
-💼 **Estagiário em Desenvolvimento de Software** — aprendendo com desafios reais em produção.  
+💼 **Estagiário de Desenvolvimento de Software na Kairos Motores** — contribuindo para a cultura de inovação da empresa, atuando no setor de desenvolvimento e inovação de uma indústria de motores de corrente alternada.  
 🐍 **Python 3** completo (Curso em Vídeo, Mundos 1–3) com +100 exercícios documentados.  
 🗄️ Evoluindo em **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos).  
 📚 Metodologia própria: teoria → anotações → exercícios → documentação pública.
 
-> *"Cada dia de estágio é uma oportunidade de transformar teoria em experiência real."*
+> *"Da sala de aula ao chão industrial: cada linha de código é uma oportunidade de transformar eficiência em inovação."*
 
 ---
 
 ## 💼 Experiência Profissional
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Estágio-Desenvolvimento%20de%20Software-3776AB?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Dados%20%7C%20Boas%20Práticas-316192?style=flat-square&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendizado-Constante%20%7C%20Colaboração-success?style=flat-square&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estágio-Desenvolvimento%20%26%20Inovação-3776AB?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Setor-Industrial%20%7C%20Motores%20CA-316192?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Missão-Cultura%20de%20Inovação%20%7C%20Soluções%20Tecnológicas-success?style=flat-square&logo=lightbulb&logoColor=white" />
 </div>
 
-Atualmente estagiando em desenvolvimento de software, aplicando meus fundamentos em projetos reais e crescendo profissionalmente a cada sprint.
+### Kairos Motores — Estagiário de Desenvolvimento de Software
+**Início:** 2026 · **Setor:** Desenvolvimento e Inovação
+
+Atuação no desenvolvimento e evolução de aplicações internas, propondo melhorias e criando novas soluções tecnológicas que impulsionam a cultura de inovação da empresa. Trabalho em um ambiente industrial com foco em motores de corrente alternada, aplicando boas práticas de engenharia de software para agregar valor aos processos. Primeiro contato com metodologias ágeis, versionamento colaborativo e desafios reais de produção.
 
 ---
 
@@ -76,7 +79,8 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 
 | Área | Status |
 |------|--------|
-| Estágio em Desenvolvimento | 💼 Em andamento |
+| Estágio na Kairos Motores | 💼 Em andamento |
+| Cultura de Inovação e Aplicações Internas | 🚀 Ativo |
 | Modelagem de Dados (Boson) | 🔄 Em andamento |
 | PostgreSQL (Boson) | 📅 Próximo módulo |
 | Python ↔ SQL (integração) | 🔜 Em breve |
@@ -123,7 +127,7 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 <summary>📖 Clique para expandir</summary>
 <br>
 
-- **No estágio:** Trabalho em equipe, metodologias ágeis, versionamento colaborativo
+- **No estágio:** Trabalho em equipe, metodologias ágeis, versionamento colaborativo, aplicações industriais, cultura de inovação
 - Modelagem conceitual, lógica e normalização
 - SQL avançado: consultas, subconsultas, índices
 - Integração Python ↔ PostgreSQL (psycopg2, SQLAlchemy)
