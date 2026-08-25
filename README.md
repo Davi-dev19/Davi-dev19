@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://komarev.ghpvc/?username=davidev-tech&color=blue&style=flat-square" alt="Profile views" />
   <h1>🧭 Davi Dev Tech</h1>
   <p>
     <em>Engenharia de Software · Backend · Dados · Organização</em><br>
