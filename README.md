@@ -2,7 +2,7 @@
   <h1>🧭 Davi Dev Tech</h1>
   <p>
     <em>Engenharia de Software · Backend · Dados · Organização</em><br>
-    <strong>💼 Estagiário de Desenvolvimento de Software</strong>
+    <strong>💼 Estagiário de Engenharia de Software</strong>
   </p>
   <!-- Badge de status atual -->
   <a href="https://www.linkedin.com/in/davidev-tech" target="_blank">
