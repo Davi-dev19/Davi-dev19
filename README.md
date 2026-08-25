@@ -1,3 +1,4 @@
+<div align="center">
   <h1>🧭 Davi Dev Tech</h1>
   <p>
     <em>Engenharia de Software · Backend · Dados · Organização</em><br>
