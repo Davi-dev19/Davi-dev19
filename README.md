@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidev-tech&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.ghpvc/?username=davidev-tech&color=blue&style=flat-square" alt="Profile views" />
   <h1>🧭 Davi Dev Tech</h1>
   <p>
     <em>Engenharia de Software · Backend · Dados · Organização</em><br>
-    <strong>🔍 Disponível para Estágio a partir de 2026</strong>
+    <strong>💼 Estagiário de Desenvolvimento de Software</strong>
   </p>
-  <!-- Badge de status de busca -->
+  <!-- Badge de status atual -->
   <a href="https://www.linkedin.com/in/davidev-tech" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Buscando%20Estágio-blue?style=for-the-badge&logo=linkedin" alt="Buscando Estágio" />
+    <img src="https://img.shields.io/badge/Status-Estagiando-green?style=for-the-badge&logo=linkedin" alt="Estagiando" />
   </a>
   <br><br>
   <!-- Mini cards de tecnologias -->
@@ -23,26 +23,25 @@
 
 ## 🧠 Sobre mim
 
-🎓 **4º período de Engenharia de Software** — construindo bases sólidas para sistemas confiáveis.  
+🎓 **Estudante de Engenharia de Software** — aplicando teoria na prática profissional.  
+💼 **Estagiário em Desenvolvimento de Software** — aprendendo com desafios reais em produção.  
 🐍 **Python 3** completo (Curso em Vídeo, Mundos 1–3) com +100 exercícios documentados.  
-🗄️ Aprofundando **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos).  
+🗄️ Evoluindo em **Modelagem de Dados** e **PostgreSQL** (Boson Treinamentos).  
 📚 Metodologia própria: teoria → anotações → exercícios → documentação pública.
 
-> *"Código limpo, modelagem bem pensada e um banco robusto formam a base de qualquer sistema."*
+> *"Cada dia de estágio é uma oportunidade de transformar teoria em experiência real."*
 
 ---
 
-## 🔎 Em busca de estágio
+## 💼 Experiência Profissional
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Java%20%7C%20APIs-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dados-Modelagem%20%7C%20SQL%20%7C%20PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cultura-Aprendizado%20cont%C3%ADnuo%20%7C%20Qualidade-success?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estágio-Desenvolvimento%20de%20Software-3776AB?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Dados%20%7C%20Boas%20Práticas-316192?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendizado-Constante%20%7C%20Colaboração-success?style=flat-square&logo=users&logoColor=white" />
 </div>
 
-Estou ativamente procurando uma **oportunidade de estágio em desenvolvimento de software** para aplicar meus fundamentos e contribuir com desafios reais. Interesse especial pelas áreas acima.
-
-*Entre em contato pelos links no final desta página.*
+Atualmente estagiando em desenvolvimento de software, aplicando meus fundamentos em projetos reais e crescendo profissionalmente a cada sprint.
 
 ---
 
@@ -78,6 +77,7 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 
 | Área | Status |
 |------|--------|
+| Estágio em Desenvolvimento | 💼 Em andamento |
 | Modelagem de Dados (Boson) | 🔄 Em andamento |
 | PostgreSQL (Boson) | 📅 Próximo módulo |
 | Python ↔ SQL (integração) | 🔜 Em breve |
@@ -124,6 +124,7 @@ Organizei meus projetos e estudos em listas navegáveis. Escolha uma categoria:
 <summary>📖 Clique para expandir</summary>
 <br>
 
+- **No estágio:** Trabalho em equipe, metodologias ágeis, versionamento colaborativo
 - Modelagem conceitual, lógica e normalização
 - SQL avançado: consultas, subconsultas, índices
 - Integração Python ↔ PostgreSQL (psycopg2, SQLAlchemy)
